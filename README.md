@@ -15,9 +15,5 @@ using project-based peer learning. For more information, visit
 [this link](https://www.alxafrica.com/software-engineering/).
 
 <p align="center">
-  <img src="https://cdn.movemeback.com/media/thumbnails/images/alx-organisation-logo-20190916-00002391/f6313bbddaca8b63d28b26a7b02bc3c7.jpg"
-       alt="ALX School logo">
-</p>
-
-       alt="ALX School logo">
+  <img src="https://cdn.movemeback.com/media/thumbnails/images/alx-organisation-logo-20190916-00002391/f6313bbddaca8b63d28b26a7b02bc3c7.jpg" alt="ALX School logo">
 </p>
